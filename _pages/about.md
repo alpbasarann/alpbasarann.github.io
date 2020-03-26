@@ -12,8 +12,7 @@ redirect_from:
   <img src="https://yigitokar.github.io/images/profile2.png?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-* I am an Economics PhD student at [University of Washington](https://econ.washington.edu/).
-* Prior to this, I did my Bachelor Degree (with Honours) in Electrical and Electronics Engineering with a minor in Economics at Bogazici University. My research advisor was Professor Burak Saltoglu.
-* You can view my CV [here](yigitokar.github.io/files/CV.pdf).
+* I am an Industrial Engineering student at [Yildiz Technical University](http://www.yildiz.edu.tr/).
+* You can view my CV [here].
 
 
