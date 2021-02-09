@@ -13,6 +13,6 @@ redirect_from:
 </p>
 
 * I am an Industrial Engineering student at [Yildiz Technical University](http://www.yildiz.edu.tr/).
-* You can view my CV [here].
+
 
 
