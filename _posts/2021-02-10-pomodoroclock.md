@@ -1,7 +1,7 @@
 ---
-title: 'Delta Trick and Taking Derivatives of Inner Products(or other scalars) with respect to vectors and matrices'
-date: 2020-04-2
-permalink: /posts/2020/delta/
+title: 'Pomodoro-Clock Project with react.js'
+date: 2021-02-10
+permalink: /posts/2021/Pomodoro-Clock/
 tags:
-  - The Delta Trick 
+  - Pomodoro-Clock 
 ---
