@@ -9,4 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-* Soon.
+[Alp Basaran Resume.pdf](https://github.com/alpbasarann/alpbasarann.github.io/files/6167813/Alp.Basaran.Resume.pdf)
+
